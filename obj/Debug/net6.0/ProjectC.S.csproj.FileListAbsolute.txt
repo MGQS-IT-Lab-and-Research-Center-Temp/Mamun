@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.AssemblyInfo.cs
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ProjectC.S\bin\Debug\net6.0\ProjectC.S.exe
+C:\Users\USER\Desktop\ProjectC.S\bin\Debug\net6.0\ProjectC.S.deps.json
+C:\Users\USER\Desktop\ProjectC.S\bin\Debug\net6.0\ProjectC.S.runtimeconfig.json
+C:\Users\USER\Desktop\ProjectC.S\bin\Debug\net6.0\ProjectC.S.dll
+C:\Users\USER\Desktop\ProjectC.S\bin\Debug\net6.0\ProjectC.S.pdb
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.dll
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\refint\ProjectC.S.dll
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.pdb
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ProjectC.S.genruntimeconfig.cache
+C:\Users\USER\Desktop\ProjectC.S\obj\Debug\net6.0\ref\ProjectC.S.dll
